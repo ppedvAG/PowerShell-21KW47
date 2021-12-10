@@ -1,9 +1,10 @@
 # Aufgabe Skript Übung
 
-Aufgabe:
+## Aufgabe:
+
 Erstellen Sie ein Skript welches TestFiles anlegt. Die Parameter sollten validiert sein.
 
-Mindestparameter:
+**Mindestparameter:**
 - Path
 - Anzahl der Dateien
 
